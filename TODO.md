@@ -41,11 +41,11 @@ Again, the `instructions.md` provides a description of each solution. Your goal 
 solutions, use the tests in `src/test` to verify your implementations, and use the Benchmark classes to compare
 their performance.
 
-- [ ] [TaskCounter](./src/main/java/com/corndel/trees/task_counter/TaskCounter.java)
-- [ ] [DoneCounter](./src/main/java/com/corndel/trees/done_counter/DoneCounter.java)
-- [ ] [MaxEffortFinder](./src/main/java/com/corndel/trees/max_effort_finder/MaxEffortFinder.java)
-- [ ] [EffortTotaller](./src/main/java/com/corndel/trees/effort_totaller/EffortTotaller.java)
-- [ ] [MarkAllDone](./src/main/java/com/corndel/trees/mark_all_done/MarkAllDone.java)
+- [x] [TaskCounter](./src/main/java/com/corndel/trees/task_counter/TaskCounter.java)
+- [x] [DoneCounter](./src/main/java/com/corndel/trees/done_counter/DoneCounter.java)
+- [x] [MaxEffortFinder](./src/main/java/com/corndel/trees/max_effort_finder/MaxEffortFinder.java)
+- [x] [EffortTotaller](./src/main/java/com/corndel/trees/effort_totaller/EffortTotaller.java)
+- [x] [MarkAllDone](./src/main/java/com/corndel/trees/mark_all_done/MarkAllDone.java)
 
 ## Beyond
 
