@@ -16,11 +16,11 @@ correctness.
 Afterwards, execute the benchmark class in each package to observe and compare the performance difference
 between the two approaches.
 
-- [ ] [ArrayFilter](./src/main/java/com/corndel/two_pointers/array_filter/ArrayFilter.java)
-- [ ] [ArrayReverser](./src/main/java/com/corndel/two_pointers/array_reverser/ArrayReverser.java)
-- [ ] [PairSum](./src/main/java/com/corndel/two_pointers/pair_sum/PairSum.java)
-- [ ] [ZeroShifter](./src/main/java/com/corndel/two_pointers/zero_shifter/ZeroShifter.java)
-- [ ] [MaxWaterContainer](./src/main/java/com/corndel/two_pointers/max_water_container/MaxWaterContainer.java)
+- [x] [ArrayFilter](./src/main/java/com/corndel/two_pointers/array_filter/ArrayFilter.java)
+- [x] [ArrayReverser](./src/main/java/com/corndel/two_pointers/array_reverser/ArrayReverser.java)
+- [x] [PairSum](./src/main/java/com/corndel/two_pointers/pair_sum/PairSum.java)
+- [x] [ZeroShifter](./src/main/java/com/corndel/two_pointers/zero_shifter/ZeroShifter.java)
+- [x] [MaxWaterContainer](./src/main/java/com/corndel/two_pointers/max_water_container/MaxWaterContainer.java)
 
 ## Trees
 
@@ -41,11 +41,11 @@ Again, the `instructions.md` provides a description of each solution. Your goal 
 solutions, use the tests in `src/test` to verify your implementations, and use the Benchmark classes to compare
 their performance.
 
-- [ ] [TaskCounter](./src/main/java/com/corndel/trees/task_counter/TaskCounter.java)
-- [ ] [DoneCounter](./src/main/java/com/corndel/trees/done_counter/DoneCounter.java)
-- [ ] [MaxEffortFinder](./src/main/java/com/corndel/trees/max_effort_finder/MaxEffortFinder.java)
-- [ ] [EffortTotaller](./src/main/java/com/corndel/trees/effort_totaller/EffortTotaller.java)
-- [ ] [MarkAllDone](./src/main/java/com/corndel/trees/mark_all_done/MarkAllDone.java)
+- [x] [TaskCounter](./src/main/java/com/corndel/trees/task_counter/TaskCounter.java)
+- [x] [DoneCounter](./src/main/java/com/corndel/trees/done_counter/DoneCounter.java)
+- [x] [MaxEffortFinder](./src/main/java/com/corndel/trees/max_effort_finder/MaxEffortFinder.java)
+- [x] [EffortTotaller](./src/main/java/com/corndel/trees/effort_totaller/EffortTotaller.java)
+- [x] [MarkAllDone](./src/main/java/com/corndel/trees/mark_all_done/MarkAllDone.java)
 
 ## Beyond
 
