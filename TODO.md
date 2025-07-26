@@ -16,11 +16,11 @@ correctness.
 Afterwards, execute the benchmark class in each package to observe and compare the performance difference
 between the two approaches.
 
-- [ ] [ArrayFilter](./src/main/java/com/corndel/two_pointers/array_filter/ArrayFilter.java)
-- [ ] [ArrayReverser](./src/main/java/com/corndel/two_pointers/array_reverser/ArrayReverser.java)
-- [ ] [PairSum](./src/main/java/com/corndel/two_pointers/pair_sum/PairSum.java)
-- [ ] [ZeroShifter](./src/main/java/com/corndel/two_pointers/zero_shifter/ZeroShifter.java)
-- [ ] [MaxWaterContainer](./src/main/java/com/corndel/two_pointers/max_water_container/MaxWaterContainer.java)
+- [x] [ArrayFilter](./src/main/java/com/corndel/two_pointers/array_filter/ArrayFilter.java)
+- [x] [ArrayReverser](./src/main/java/com/corndel/two_pointers/array_reverser/ArrayReverser.java)
+- [x] [PairSum](./src/main/java/com/corndel/two_pointers/pair_sum/PairSum.java)
+- [x] [ZeroShifter](./src/main/java/com/corndel/two_pointers/zero_shifter/ZeroShifter.java)
+- [x] [MaxWaterContainer](./src/main/java/com/corndel/two_pointers/max_water_container/MaxWaterContainer.java)
 
 ## Trees
 
